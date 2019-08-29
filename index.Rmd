@@ -1,9 +1,13 @@
 ---
-title: "My Website"
+title: "About This Website"
 ---
 
-Hello, Website!
+This website records and presents all the homework Team 6 has done for IDS 702: Modeling and Representation of Data for the Fall 2019 academic semester. Please refer to the other tabs to access the assignments.
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+Contributor & Authors :-
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+* [Altamash Rafiq](https://www.altamashrafiq.com/)
+* Christy Hu
+* Ronald Nhondova
+* Srishti Saha
+* Tien Yu Liu

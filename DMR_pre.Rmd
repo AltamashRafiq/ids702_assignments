@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1 - IDS 702"
+title: "Pre Assignment - IDS 702"
 author: "Altamash Rafiq, Christy Hu, Ronald Nhondova, Srishti Saha, & Tien Yu Liu"
 date: "8/28/2019"
 output:

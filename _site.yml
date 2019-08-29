@@ -3,7 +3,7 @@ navbar:
   title: "IDS 702 Assignments"
   left:
     - text: "About"
-      href: about.html
+      href: index.html
     - text: "Pre"
       href: DMR_pre.html
 
