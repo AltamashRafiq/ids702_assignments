@@ -4,6 +4,9 @@ navbar:
   left:
     - text: "About"
       href: index.html
-    - text: "Pre"
+    - text: "Pre Assignment"
       href: DMR_pre.html
+output:
+  html_document:
+    theme: flatly
 
