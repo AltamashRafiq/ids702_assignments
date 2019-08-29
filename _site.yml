@@ -1,11 +1,11 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "IDS 702 Assignments"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Assignment 1"
-      href: DMR_hw01.html
+    - text: "Pre"
+      href: DMR_pre.html
 
