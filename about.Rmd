@@ -2,4 +2,12 @@
 title: "About This Website"
 ---
 
-More about this website.
+This website records and presents all the homework Team 6 has done for IDS 702: Modeling and Representation of Data for the Fall 2019 academic semester. Please refer to the other tabs to access the assignments.
+
+Contributor & Authors :-
+
+* [Altamash Rafiq](https://www.altamashrafiq.com/)
+* Christy Hu
+* Ronald Nhondova
+* Srishti Saha
+* Tien Yu Liu
